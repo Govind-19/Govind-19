@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and drawing.
 - 🌱 I’m currently learning full stack development.
 - 💞️ I’m looking to collaborate on exciting coding projects.
-- 📫 You can reach me on LinkedIn (https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/bammidi-govinda-rao-b8286a229/).
+- 📫 You can reach me on LinkedIn (https://www.linkedin.com/in/bammidi-govinda-rao-b8286a229/).
 
 
 <!---
