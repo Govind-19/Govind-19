@@ -63,13 +63,13 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 ### DevOps & Cloud
 <div align="center">
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://assets.datamation.com/uploads/2022/04/AWS-logo-icon-e1663793981162.png" alt="AWS" height="50" />
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" height="50" />
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Docker_logo.png" alt="Docker" height="50" />
   </a>
   <a href="https://github.com/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxHgLHGJvdLDvEwd6IikTlnzTkAP6Z3PodRA&s" alt="Git" height="50" />
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="50" />
   </a>
 </div>
 
