@@ -104,7 +104,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
   <a href="https://linkedin.com/in/bammidi-govinda-rao-b8286a229" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-<a href="mailto:bammidigovindarao1729@gmail.com@gmail.com" target="_blank">
+<a href="mailto:bammidigovindarao1729@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
   </a>
   
