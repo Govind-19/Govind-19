@@ -105,7 +105,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 <a href="mailto:bammidigovindarao1729@gmail.com@gmail.com" target="_blank">
-    <img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202010/Google_Gmail_New_Logo_India_To_1200x768.jpeg" alt="Mail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
   </a>
   
 </div>
