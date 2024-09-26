@@ -56,7 +56,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
     <img src="https://camo.githubusercontent.com/a5df12a481812d5e5e3ebb22eef28cb1342ccfcf97d56049fc460ce640c18312/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3437413234383f7374796c653d666c6174266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" alt="MongoDB" height="50" />
   </a>
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF92cQQ4NZcQqHvhn7tpFJubjqObfe3s2hgw&s" alt="Python" height="50" />
   </a>
 </div>
 
