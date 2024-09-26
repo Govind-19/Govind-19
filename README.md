@@ -66,10 +66,10 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
     <img src="https://assets.datamation.com/uploads/2022/04/AWS-logo-icon-e1663793981162.png" alt="AWS" height="50" />
   </a>
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Docker_logo.png" alt="Docker" height="50" />
   </a>
   <a href="https://github.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxHgLHGJvdLDvEwd6IikTlnzTkAP6Z3PodRA&s" alt="Git" height="50" />
   </a>
 </div>
 
