@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 ### DevOps & Cloud
 <div align="center">
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
+    <img src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg" alt="AWS" height="50" />
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
