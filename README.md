@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 ## 🛠 Tech Stack
 
 ### Frontend
-<div align="center">
+<div align="left">
   <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
     <img src="https://camo.githubusercontent.com/b2b3fb0dfb6ddd22270c95c61e9a25fd39e2552c157cba9259b6a2177fbe72e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4646343530303f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML" height="50" />
   </a>
