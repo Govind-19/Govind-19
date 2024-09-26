@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 - 🌱 I’m enhancing my skills in **MERN stack**.
 - 🎓 Studying **BTech in AIML**.
 - 💬 Ask me about **MERN stack, DevOps, and cloud technologies**.
-- 🚀 Completed **Full Stack Development** at NxT Wave.
+- 🚀 Completed **Full Stack Development** at NxtWave.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=govind-19&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
