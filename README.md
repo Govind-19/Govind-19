@@ -1,6 +1,3 @@
-Here's a refined and optimized version of your GitHub README:
-
----
 
 <h1 align="center">Hi 👋, I'm Bammidi Govinda Rao</h1>
 <h3 align="center">Full Stack Developer | Passionate about building scalable, impactful web applications</h3>
