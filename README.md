@@ -2,12 +2,13 @@
 <h1 align="center">Hi 👋, I'm Bammidi Govinda Rao</h1>
 <h3 align="center">Full Stack Developer | Passionate about building scalable, impactful web applications</h3>
 
-Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leveraging my skills to build interactive and scalable web applications. With a strong foundation in tools like HTML, CSS, JavaScript, React JS, Bootstrap, Node.js, Express.js, SQLite, MongoDB, I aim to combine technical expertise with business acumen to deliver impactful solutions.
+Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leveraging my skills to build interactive and scalable web applications. With a strong foundation in tools like **HTML, CSS, JavaScript, React JS, Bootstrap, Node.js, Express.js, SQLite, MongoDB**, I aim to combine technical expertise with business acumen to deliver impactful solutions.
 
 - 🌱 I’m enhancing my skills in **MERN stack**.
 - 🎓 Studying **BTech in AIML**.
 - 💬 Ask me about **MERN stack, DevOps, and cloud technologies**.
 - 🚀 Completed **Full Stack Development** at NxtWave.
+- 👥 Engaging with 11K+ followers on LinkedIn, where I share insights, knowledge, and learning experiences.
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=govind-19&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
