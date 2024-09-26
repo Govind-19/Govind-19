@@ -46,7 +46,7 @@
     <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
   </a>
   <a href="https://expressjs.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
+    <img src="https://camo.githubusercontent.com/13e6038ba4d86177c4ed9dba73e7a1a489e04f38849790d10e519a5f6df11435/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3030303030303f7374796c653d666c6174266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465" alt="Express.js" height="50" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
