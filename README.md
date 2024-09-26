@@ -66,7 +66,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" height="50" />
   </a>
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Docker_logo.png" alt="Docker" height="50" />
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="50" />
   </a>
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="50" />
