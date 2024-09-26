@@ -81,9 +81,6 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Govind-19&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
 
----
-
-## 🔗 Connect with Me
 <div align="center">
   <a href="https://github.com/Govind-19" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -95,6 +92,10 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
+---
+
+## 🔗 Connect with Me
+
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
