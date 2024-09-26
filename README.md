@@ -19,18 +19,24 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 
 ### Frontend
 <div align="center">
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank">
+    <img src="https://camo.githubusercontent.com/b2b3fb0dfb6ddd22270c95c61e9a25fd39e2552c157cba9259b6a2177fbe72e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4646343530303f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="HTML" height="50" />
   </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
+    <img src="https://camo.githubusercontent.com/01bb2c5c97d68489bf16714589b699b206514081e17814c36e2246b44985ede3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3135373242363f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" alt="CSS" height="50" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+    <img src="https://camo.githubusercontent.com/73d4fd0449641b47a8f3bef110b841ff985ac387c62da34a0b52f3b6197887f2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b" alt="JavaScript" height="50" />
   </a>
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-    <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://camo.githubusercontent.com/e0fdcc3aac4ba33b184081f45699461c1eaf4a646cfab3baaffb6ff09a95c59a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666c6174266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" alt="Bootstrap" height="50" />
   </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://camo.githubusercontent.com/9ad7649bd5a63c820f7d66955fb34c0f09e49975393c64b65c2625f454ceb490/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742e6a732d3631444146423f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d626c61636b" alt="React" height="50" />
+  </a>
+  
+  
+  
 </div>
 
 ### Backend
