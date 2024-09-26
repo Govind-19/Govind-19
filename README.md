@@ -44,6 +44,11 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://camo.githubusercontent.com/51cc9f505e53848ae2b781395f92f375e9933b91f387cc31f22331675e760468/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666c6174266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt="Node.js" height="50" />
   </a>
+
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
+    <img src="https://camo.githubusercontent.com/323e8dd3ce6a046d6bf202eadd224a53de7991bd29ce729a1e2b17c92d0d0817/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c2d3434373941313f7374796c653d666c6174266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" alt="SQL" height="50" />
+  </a>
+  
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://camo.githubusercontent.com/13e6038ba4d86177c4ed9dba73e7a1a489e04f38849790d10e519a5f6df11435/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732e6a732d3030303030303f7374796c653d666c6174266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465" alt="Express.js" height="50" />
   </a>
