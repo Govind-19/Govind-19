@@ -8,20 +8,10 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 - 🎓 Studying **BTech in AIML**.
 - 💬 Ask me about **MERN stack, DevOps, and cloud technologies**.
 - 🚀 Completed **Full Stack Development** at NxT Wave.
-- 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=govind-19&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=govind-19" alt="GitHub Trophies" />
-  </a>
-  <a href="https://twitter.com/govindabammidi" target="blank">
-    <img src="https://img.shields.io/twitter/follow/govindabammidi?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
-
 
 ---
 
@@ -95,9 +85,11 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Govind-19&&style=flat-square" alt="Profile views" />
-</div>
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=govind-19" alt="GitHub Trophies" />
+  </a>
+  <a href="https://twitter.com/govindabammidi" target="blank">
+    <img src="https://img.shields.io/twitter/follow/govindabammidi?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
