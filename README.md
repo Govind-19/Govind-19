@@ -89,7 +89,4 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=govind-19" alt="GitHub Trophies" />
   </a>
-  <a href="https://twitter.com/govindabammidi" target="blank">
-    <img src="https://img.shields.io/twitter/follow/govindabammidi?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
 </p>
