@@ -94,7 +94,7 @@ Welcome to my GitHub profile! I'm a Full Stack Developer with a passion for leve
 
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/Govind-19" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
