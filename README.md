@@ -113,7 +113,7 @@ Feel free to explore my repository 😊!!
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
   </a>
   <a href="https://linktr.ee/Govinda1729" target="_blank">
-    <img src="https://germanunioncemetery.org/linktree-logo-icon-png-and-svg-vector-free-download-ff-bGKXeRUM" alt="Linktr" />
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" alt="Linktr" />
   </a>
 </div>
 
