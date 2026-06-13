@@ -32,9 +32,6 @@ I'm always keen to connect with fellow tech enthusiasts, content creators, and l
 <a href="mailto:bammidigovindarao1729@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
   </a>
-  <a href="https://linktr.ee/Govinda1729" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" alt="Linktr" />
-  </a>
 </div>
 
 
